@@ -1,4 +1,4 @@
-T440P Hackintosh guide (specifically for Windows users)
+T440P Hackintosh (Windows)
 ------
 
 #### What doesnt work:
