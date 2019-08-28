@@ -1,5 +1,6 @@
 T440P Hackintosh guide (specifically for Windows users)
 ------
+
 #### What doesnt work:
 * Dock audio
 * NVIDIA dGPU
@@ -45,3 +46,6 @@ Create a CLOVER usb
 1. Open transmac and 
 ## Step 4
 ## Step 5
+
+Sources & Links:
+https://internet-install.gitbook.io/macos-internet-install/ - Full (but generic) hackintosh install guide
