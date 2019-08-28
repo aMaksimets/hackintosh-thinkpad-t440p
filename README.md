@@ -47,5 +47,5 @@ Create a CLOVER usb
 ## Step 4
 ## Step 5
 
-Sources & Links:
+### Sources & Links:
 https://internet-install.gitbook.io/macos-internet-install/ - Full (but generic) hackintosh install guide
