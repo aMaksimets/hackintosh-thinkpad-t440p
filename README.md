@@ -34,8 +34,7 @@ UEFI/Legacy Priority: UEFI First,
 CSM Support: Yes.
 
 ## Step 2 - Create a bootable usb
-Windows has the best tool for getting and installing MacOS, to make a bootable drive. Its called [gibMacOS](https://github.com/corpnewt/gibMacOS). 
-It requires [Python](https://www.python.org/downloads/) to run.
+Create a CLOVER usb 
 
 1. Extract folder and run the gibMacOS .bat file
 2. Pick latest MacOS version.
