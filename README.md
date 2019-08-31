@@ -1,15 +1,29 @@
-T440P Hackintosh (Windows)
-------
+## T440P Hackintosh Install
+[Windows](#windows) | [Linux](#linux) |
+--- | --- |
 
 #### What doesnt work:
-* Dock audio
-* NVIDIA dGPU
-* etc.
+* Dell 1820A
+* Nvidia dGPU
+* Synaptics drivers (Will need ALP if you want 100% working one)
+
+
+<h2 name="windows">Windows 10 Install</h2>
 
 ### What you need:
 * T440p with Patches bios.
 * 8GB USB.
 * [TransMac](https://www.acutesystems.com/scrtm.htm).
+
+
+<h2 name="linux">Linux Install</h2>
+
+### What you need:
+* T440p with Patches bios.
+* 8GB USB.
+* [TransMac](https://www.acutesystems.com/scrtm.htm).
+
+
 
 
 ### GET MACOS MOJAVE
@@ -45,7 +59,8 @@ Create a CLOVER usb
 ## Step 3
 1. Open transmac and 
 ## Step 4
-## Step 5
+## Step 5 - Booting into Clover
+![clover](https://i.redd.it/np7ai9qbdld21.png)
 
 ### Sources & Links:
 https://internet-install.gitbook.io/macos-internet-install/ - Full (but generic) hackintosh install guide
