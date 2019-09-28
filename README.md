@@ -5,7 +5,7 @@
 #### What doesnt work:
 * Dell 1820A
 * Nvidia dGPU
-* Synaptics drivers (Will need ALP if you want 100% working one)
+* Synaptics trackpad (gestures dont work out of the box)
 
 
 <h2 name="windows">Windows 10 Install</h2>
@@ -19,17 +19,12 @@
 <h2 name="linux">Linux Install</h2>
 
 ### What you need:
-* T440p with Patches bios.
+* T440p w/Patches bios.
 * 8GB USB.
 * [TransMac](https://www.acutesystems.com/scrtm.htm).
 
 
-
-
 ### GET MACOS MOJAVE
-First you need the .dmg of MacOS
-To get MacOS just find a trusted torrent for the OS (google around or take to the seas).
-#### Alternatively 
 You can use the [gibMacOS](https://github.com/corpnewt/gibMacOS) tool to get clover and your .dmg file.
 
 ### Step 1 - BIOS Setup
@@ -49,16 +44,19 @@ UEFI/Legacy Priority: UEFI First,
 CSM Support: Yes.
 
 ## Step 2 - Create a bootable usb
-Create a CLOVER usb 
+Create a Clover usb 
 
 1. Extract folder and run the gibMacOS .bat file
 2. Pick latest MacOS version.
 3. Download (might take 5min).
 4. After download, open MakeInstall.bat and choose your drive.
 5. When prompted for the Recovery pkg file, just CTRL+C+V the directory to which MacOS downloaded to.
-## Step 3
-1. Open transmac and 
+
+## Step 3 
+1. TransMac - to 
+
 ## Step 4
+
 ## Step 5 - Booting into Clover
 ![clover](https://i.redd.it/np7ai9qbdld21.png)
 
